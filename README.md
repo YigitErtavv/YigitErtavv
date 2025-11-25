@@ -1,44 +1,51 @@
-<h1 align="center">👋 Hey! I'm Yiğit</h1>
+<!-- PROFILE HEADER -->
+<h1 align="center">🚀 Yiğit Ertavv</h1>
+<h3 align="center">Aspiring Software Developer | Future Full-Stack Engineer</h3>
 
 <p align="center">
-  💻 Aspiring Software Developer | 🎯 Goal: Become a Full-Stack Dev <br>
-  🚀 Learning something new every day
+  🔥 Developing myself day by day • 💻 Writing clean & meaningful code • 🎯 Focused on improving
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔥 I love coding and improving myself step by step  
-- 🧠 Currently learning: **C**, **Python**, and **Web Development**  
-- 🎮 Gamer & tech enthusiast  
-- 🎯 Big dreams, strong ambition — I never give up  
-- 💼 Building projects to create a strong portfolio  
+## ✨ About Me
+- 👨‍💻 Passionate about software development  
+- 🧠 Currently learning: **C**, **Python**, **HTML**, **CSS**, basic **JavaScript**  
+- 🎯 Long-term goal: Become a **Full-Stack developer**  
+- 🚀 Love building small projects and improving step by step  
+- 🕹️ Gamer & tech lover  
 
 ---
 
-### 🛠️ Technologies & Tools
-- **Languages:** C, Python, HTML, CSS (devamını ekledikçe buraya yazarsın)
-- **Tools:** VS Code, Git, GitHub
-- **Interests:** Web Apps, Simple Games, Automations
+## 🛠️ Tech Stack
+**Languages:**  
+`C` • `Python` • `HTML` • `CSS` • `JavaScript (Basic)`
+
+**Tools & Platforms:**  
+`VS Code` • `Git` • `GitHub` • `Windows 11`
 
 ---
 
-### 📈 My GitHub Stats
+## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YigitErtavv&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitErtavv&layout=compact&theme=dark" height="150" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YigitErtavv&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitErtavv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Goals for 2025
-- 🔹 Build 10+ real projects  
-- 🔹 Learn backend development  
-- 🔹 Create my first big application  
-- 🔹 Become job-ready as a developer  
+## ⚡ Current Goals
+- 📌 Create 10+ meaningful projects  
+- 📌 Improve backend skills  
+- 📌 Build my first real-world application  
+- 📌 Become job-ready in software development  
 
 ---
 
-### 🤝 Connect with Me
-- 💬 You can always reach me for help, ideas, or collaboration  
-- ✨ More projects coming soon — stay tuned!
+## 🔗 Connect With Me
+💬 Open to collaboration, ideas, and learning new things.  
+🎯 More projects coming soon — stay tuned!
+
+---
+
+<h3 align="center">🔥 "Step by step, I'm building my future with code." 🔥</h3>
